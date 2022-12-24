@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/meme-app/static/js/main.704fd4cf.chunk.js",
+    "main.js.map": "/meme-app/static/js/main.704fd4cf.chunk.js.map",
+    "runtime-main.js": "/meme-app/static/js/runtime-main.be2723cc.js",
+    "runtime-main.js.map": "/meme-app/static/js/runtime-main.be2723cc.js.map",
+    "static/css/2.ce357e74.chunk.css": "/meme-app/static/css/2.ce357e74.chunk.css",
+    "static/js/2.aef583b4.chunk.js": "/meme-app/static/js/2.aef583b4.chunk.js",
+    "static/js/2.aef583b4.chunk.js.map": "/meme-app/static/js/2.aef583b4.chunk.js.map",
+    "index.html": "/meme-app/index.html",
+    "precache-manifest.87c891feb91fc3ed3e17874cb8cb8e6e.js": "/meme-app/precache-manifest.87c891feb91fc3ed3e17874cb8cb8e6e.js",
+    "service-worker.js": "/meme-app/service-worker.js",
+    "static/css/2.ce357e74.chunk.css.map": "/meme-app/static/css/2.ce357e74.chunk.css.map",
+    "static/js/2.aef583b4.chunk.js.LICENSE.txt": "/meme-app/static/js/2.aef583b4.chunk.js.LICENSE.txt",
+    "static/media/app-icon.svg": "/meme-app/static/media/app-icon.3b675fd3.svg",
+    "static/media/index.css": "/meme-app/static/media/open-sans-latin-800italic.c62c3eea.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be2723cc.js",
+    "static/css/2.ce357e74.chunk.css",
+    "static/js/2.aef583b4.chunk.js",
+    "static/js/main.704fd4cf.chunk.js"
+  ]
+}
